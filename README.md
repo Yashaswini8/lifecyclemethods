@@ -134,24 +134,27 @@ public class MainActivity extends AppCompatActivity {
 
 # 1. OnCreate Executed:
 
-<img width="437" height="978" alt="image" src="https://github.com/user-attachments/assets/666f42ff-df3a-4f0e-970c-de69ca97912b" />
+<img width="436" height="979" alt="image" src="https://github.com/user-attachments/assets/fbc4ea1b-f901-44a7-b03b-5febed4d2649" />
 
 
 # 2. OnPause Executed:
 
-<img width="390" height="867" alt="image" src="https://github.com/user-attachments/assets/922f2be3-f446-41ce-bd79-b3ffdee7b50b" />
+<img width="398" height="879" alt="image" src="https://github.com/user-attachments/assets/f99053a2-7c8f-4c10-9362-b4092dd0c81b" />
+
 
 # 3. OnResume Executed:
 
-<img width="373" height="826" alt="image" src="https://github.com/user-attachments/assets/214934d7-9385-42cc-9f27-9f1295275497" />
+<img width="372" height="834" alt="image" src="https://github.com/user-attachments/assets/b63ae08c-45ab-4914-b226-a49dcfd4ff40" />
+
 
 # 4. OnRestart Executed:
 
-<img width="374" height="833" alt="image" src="https://github.com/user-attachments/assets/3437bab8-daac-4093-a9ad-3163772b9f66" />
+<img width="373" height="829" alt="image" src="https://github.com/user-attachments/assets/2de39af4-fd94-4836-9f48-fac8a8255046" />
 
 # 5. OnStart Executed:
 
-<img width="371" height="830" alt="image" src="https://github.com/user-attachments/assets/f2ff2352-cada-47da-aa53-76cc2af28997" />
+<img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/a7ac53bb-e5a5-42f0-95ed-8291fe95ac75" />
+
 
 
 
