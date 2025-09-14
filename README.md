@@ -28,13 +28,13 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
- 
+``` 
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
 Developed by: YASHASWINI S
 RegisterNumber:  212224220123
 */
-
+```
 
 ## MainActivity.java:
 ```
@@ -134,26 +134,28 @@ public class MainActivity extends AppCompatActivity {
 
 # 1. OnCreate Executed:
 
-<img width="436" height="979" alt="image" src="https://github.com/user-attachments/assets/fbc4ea1b-f901-44a7-b03b-5febed4d2649" />
+<img width="1920" height="1200" alt="oncreate" src="https://github.com/user-attachments/assets/d82e7504-4f66-44df-8c20-cbd0b2cce969" />
+
 
 
 # 2. OnPause Executed:
 
-<img width="398" height="879" alt="image" src="https://github.com/user-attachments/assets/f99053a2-7c8f-4c10-9362-b4092dd0c81b" />
+<img width="1920" height="1200" alt="onpause" src="https://github.com/user-attachments/assets/3d900fe9-cfab-40f8-bf05-3255cbe46621" />
 
 
 # 3. OnResume Executed:
 
-<img width="372" height="834" alt="image" src="https://github.com/user-attachments/assets/b63ae08c-45ab-4914-b226-a49dcfd4ff40" />
+<img width="1920" height="1200" alt="onresume" src="https://github.com/user-attachments/assets/e5af51b4-394a-4757-89d5-452034e17c5e" />
 
 
 # 4. OnRestart Executed:
 
-<img width="373" height="829" alt="image" src="https://github.com/user-attachments/assets/2de39af4-fd94-4836-9f48-fac8a8255046" />
+<img width="1920" height="1200" alt="onrestart" src="https://github.com/user-attachments/assets/a0227f7a-8915-4dee-8d2c-d2ff3d22a2cb" />
 
 # 5. OnStart Executed:
 
-<img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/a7ac53bb-e5a5-42f0-95ed-8291fe95ac75" />
+<img width="1920" height="1200" alt="onstart" src="https://github.com/user-attachments/assets/abfac62e-c13c-49f7-8328-3b93ff26e268" />
+
 
 
 
