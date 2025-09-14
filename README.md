@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: DAKSHINA MOORTHY N D
-Registeration Number : 212224230049
+Developed by: Yashaswini S
+Registeration Number : 212224220123
 */
 ```
 
